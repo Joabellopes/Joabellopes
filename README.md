@@ -1,4 +1,4 @@
-## Opa, tudo bem ? Eu sou o Joabe 👋
+## Olá, tudo bem ? Eu sou o Joabe 👋
 <p align="left">Status</p>
 
 ###
